@@ -683,9 +683,9 @@
                     good: "Ярко светится, привлекает опылителей"
                 },
                 images: {
-                    bad: 'img/svetolist_bad.png',     
-                    midle: 'img/svetolist_midle.png',   
-                    good: 'img/svetolist_good.png'     
+                    bad: 'img/Svetolist_bad.png',     
+                    midle: 'img/Svetolist_midle.png',   
+                    good: 'img/Svetolist_good.png'     
                 }
             },
             { 
@@ -698,9 +698,9 @@
                     good: "Удерживает воду и питательные вещества. Активно растёт"
                 },
                 images: {
-                    bad: 'img/gravikus_bad.png',     
-                    midle: 'img/gravikus_midle.png',   
-                    good: 'img/gravikus_good.png'     
+                    bad: 'img/Gravikus_bad.png',     
+                    midle: 'img/Gravikus_midle.png',   
+                    good: 'img/Gravikus_good.png'     
                 }
             },
             { 
@@ -713,9 +713,9 @@
                     good: "Ловит ветер, быстро растёт"
                 },
                 images: {
-                    bad: 'img/aerocorn_bad.png',     
-                    midle: 'img/aerocorn_midle.png',   
-                    good: 'img/aerocorn_good.png'     
+                    bad: 'img/Aerocorn_bad.png',     
+                    midle: 'img/Aerocorn_midle.png',   
+                    good: 'img/Aerocorn_good.png'     
                 }
             },
             { 
@@ -728,9 +728,9 @@
                     good: "Активно плавает, здоров и полон сил"
                 },
                 images: {
-                    bad: 'img/plavunchik_bad.png',     
-                    midle: 'img/plavunchik_midle.png',   
-                    good: 'img/plavunchik_good.png'     
+                    bad: 'img/Plavunchik_bad.png',     
+                    midle: 'img/Plavunchik_midle.png',   
+                    good: 'img/Plavunchik_good.png'     
                 }
             },
             { 
@@ -743,9 +743,9 @@
                     good: "Роет ходы, питается корнями. Чувствует себя отлично"
                 },
                 images: {
-                    bad: 'img/temnushka_bad.png',     
-                    midle: 'img/temnushka_midle.png',   
-                    good: 'img/temnushka_good.png'     
+                    bad: 'img/Temnushka_bad.png',     
+                    midle: 'img/Temnushka_midle.png',   
+                    good: 'imgTemnushka_good.png'     
                 }
             },
             { 
@@ -758,9 +758,9 @@
                     good: "Свободно летает, дышит воздухом, наслаждается простором"
                 },
                 images: {
-                    bad: 'img/vertolet_bad.png',     
-                    midle: 'img/vertolet_midle.png',   
-                    good: 'img/vertolet_good.png'     
+                    bad: 'img/Vertolet_bad.png',     
+                    midle: 'img/Vertolet_midle.png',   
+                    good: 'img/Vertolet_good.png'     
                 }
             }
         ];
